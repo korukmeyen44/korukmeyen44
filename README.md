@@ -122,15 +122,3 @@ Uçtan uca **RAG (Retrieval-Augmented Generation)**, **Otonom Ajan İş Akışla
 [▲ Başa Dön](#hi-there-im-atag%C3%BCn-k%C3%B6r%C3%BCkmez-)
 
 </div>
-
----
-
-<div align="center">
-
-### 📊 GitHub İstatistikleri / Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korukmeyen44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korukmeyen44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
-</p>
-
-</div>
